@@ -1,6 +1,6 @@
 export const config = { runtime: 'edge' };
 
-const PRICES_URL = 'https://raw.githubusercontent.com/WeslyWHGS/COLETOR-DE-PRE-OS-HOTMART/main/hotmart-prices.json';
+const PRICES_URL = 'https://raw.githubusercontent.com/WevertonWR/COLETOR-PRECOS-GESSO/main/hotmart-prices.json';
 
 export default async function handler() {
   try {
